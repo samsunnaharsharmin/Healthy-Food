@@ -52,6 +52,62 @@ width: 16cm;
          text-align: left;
          padding: 400px 0px 400px ;
     }
-    #link{
-      
+   .t-align{
+   text-align: center;
+   width: 800px;
+   padding-left: 350px;
+}
+.item-list{
+    padding-left: 160px;
+    text-align: center;
+   display: flex;
+   justify-content: space-between;
+
+   border: white 10px solid;
+    border-image-slice: 4;
+    border-image-width: 5px;
     }
+   
+.div-o {
+    width: 200px;
+  height: 300px;
+  padding: 50px;
+  box-shadow: 5px 5px 5px 5px rgb(226, 218, 218);
+  border-radius: 20px;
+  margin-right: 20px;
+  
+  
+}
+.div-o img {
+    width: 50%;
+    border-radius: 10px;
+  
+ 
+    
+}
+.div-t {
+    width: 200px;
+    height: 300px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px 5px rgb(207, 201, 201);
+    border-radius: 20px;
+   
+  }
+  .div-t img {
+      width: 40%;
+      border-radius: 10px;
+     
+  }
+  .div-h {
+    width: 200px;
+    height: 300px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px 5px rgb(216, 204, 204);
+    border-radius: 20px;
+    margin-left: 20px;
+   }
+   .div-h img{
+       width: 30%;
+       border-radius: 10px;
+       
+   }
