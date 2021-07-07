@@ -12,7 +12,6 @@ h1{
     display: flex;
     margin: 120px;
 }
-
 .half-width{
     width: 50% ;
     padding-left: 60px;
@@ -21,14 +20,12 @@ h1{
 .half-width img {
     width:90% ;
     padding-right: 90px;
-    padding-left: 80px;
-    
+    padding-left: 80px;   
 }
 .e-img{
    padding-right: 120px;
-   padding-top: 320px;
-width: 16cm;
-    
+   padding-top: 300px;
+width: 16cm;    
 }
 
 .link-button{
@@ -75,15 +72,12 @@ width: 16cm;
   box-shadow: 5px 5px 5px 5px rgb(226, 218, 218);
   border-radius: 20px;
   margin-right: 20px;
-  
-  
+   
 }
 .div-o img {
     width: 50%;
     border-radius: 10px;
-  
- 
-    
+     
 }
 .div-t {
     width: 200px;
@@ -91,12 +85,10 @@ width: 16cm;
     padding: 50px;
     box-shadow: 5px 5px 5px 5px rgb(207, 201, 201);
     border-radius: 20px;
-   
   }
   .div-t img {
       width: 40%;
-      border-radius: 10px;
-     
+      border-radius: 10px;   
   }
   .div-h {
     width: 200px;
@@ -109,5 +101,23 @@ width: 16cm;
    .div-h img{
        width: 30%;
        border-radius: 10px;
-       
-   }
+       }
+   .last-part{
+    background-color: rgb(180, 210, 219);
+       padding: 20px 20px 20px 20px;
+    color: rgb(97, 97, 97);
+ letter-spacing: 5px;
+    }
+    .fa {
+        padding: 10px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        color: rgb(221, 221, 221);
+        background: rgb(66, 66, 66);
+        border-radius: 40%;
+      }
+     
+
+        
