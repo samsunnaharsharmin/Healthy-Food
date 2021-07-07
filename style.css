@@ -10,7 +10,7 @@ h1{
 }
 .flexible-container {
     display: flex;
-    margin: 150px;
+    margin: 120px;
 }
 
 .half-width{
@@ -25,9 +25,10 @@ h1{
     
 }
 .e-img{
-    height: 50%;
-    padding-right: 120px;
-    width: 50%;
+   padding-right: 120px;
+   padding-top: 320px;
+width: 16cm;
+    
 }
 
 .link-button{
@@ -41,11 +42,16 @@ h1{
    padding: 12px 22px 12px 22px;
 }
 .sec-banner {
-    background-image: url(/Frame\ 57.jpg);
+    background-image: url(Frame\ 57.jpg);
     background-repeat: no-repeat;
     }
     .center-mid{
-            display: inline-block;
-            line-height: normal;
-            vertical-align: middle;
+        display: inline-block;
+            width: 400px;
+         vertical-align: middle;
+         text-align: left;
+         padding: 400px 0px 400px ;
+    }
+    #link{
+      
     }
